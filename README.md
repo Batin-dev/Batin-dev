@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batın</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Expert level C++**
+- 🌱 I’m currently learning **Expert level C++ and RenPy**
 
 - 📫 How to reach me **darkflux.studios@hotmail.com**
 
