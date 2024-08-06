@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/batin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="batin-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/batineymen_df_2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batineymen_df_2022" height="30" width="40" /></a>
+<a href="https://instagram.com/batin.cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batin.cpp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@arkflux-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arkflux-official" height="30" width="40" /></a>
 <a href="https://discord.gg/batin.dev.cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="batin.dev.cs" height="30" width="40" /></a>
 </p>
