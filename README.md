@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="batin-dev" /> </p>
 
-- 🌱 I’m currently learning **Expert level C++**
+- 🌱 I’m currently learning **Expert level C (not c++ :D)**
 
 - 📫 How to reach me **darkflux.studios@hotmail.com**
 
