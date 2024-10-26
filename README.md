@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="batin-dev" /> </p>
 
-- 🌱 I’m currently learning **Expert level C (not c++ :D)**
+- 🌱 I’m currently learning **Flutter/Dart**
 
-- 📫 How to reach me **darkflux.studios@hotmail.com**
+- 📫 How to reach me **batineymen.business@gmail.com**
 
 - ⚡ Fun fact **I'm counter strike player and DDLC fan**
 
