@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@darkflux-official" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://x.com/say0r1_cpp" target="_blank">
+  <a href="https://x.com/batin_cpp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/batin.cpp/" target="_blank">
