@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Batin from Turkey!<br><br>- ✨ I was a game developer, but now I'm on my way to becoming a full-stack web developer<br>- 🔭 I'm working at NiveSoft<br>- 📚 I'm currently writing API's<br>- ⚡ In my free time I play Counter Strike!</p>
+<p align="left">I'm Batin from Turkey!<br><br>- ✨ I was a game developer, but now I'm on my way to becoming a full-stack web developer<br>- 🔭 I'm working at NiveSoft<br>- 📚 I'm currently writing API's<br>- ⚡ In my free time I play Counter Strike!<br>- 📩 You can reach me at batin@cordision.com</p>
 
 ###
 
